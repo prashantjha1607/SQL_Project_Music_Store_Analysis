@@ -3,8 +3,9 @@ Discover valuable insights from my SQL project analyzing a music store's data. E
 
 __Database and Tools__
 
-Markup : *Postgre SQL
-         *PgAdmin4
+markdwon 
+-Postgre SQL <br>
+-PgAdmin4
 
 Schema- Music Store Database
 
